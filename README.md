@@ -10,3 +10,7 @@ organization. GitHub uses them for any repository that doesn't have its own:
 - [Issue templates](.github/ISSUE_TEMPLATE) and the [pull request template](.github/pull_request_template.md).
 
 What we build in the open: <https://bytestay.pt/open-source.html>.
+
+## History
+
+Formerly Hybrid Forge Lab. This repository continues `hybridforgelab/.github` under the ByteStay name since November 2026, so the older commits come from there.
