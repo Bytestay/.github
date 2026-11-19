@@ -1,10 +1,10 @@
 # ByteStay
 
-Reliable, intelligent and scalable automation tools and APIs.
+Small, focused APIs for developers, with MCP servers and GitHub Actions to match.
 
-- 🌐 Website: [bytestay.pt](https://bytestay.pt/)
-- 🧩 APIs and products: [bytestay.pt/projects](https://bytestay.pt/projects.html)
-- 🛠️ Open source: [bytestay.pt/open-source](https://bytestay.pt/open-source.html)
+- Website: [bytestay.pt](https://bytestay.pt/)
+- APIs and products: [bytestay.pt/projects](https://bytestay.pt/projects.html)
+- Open source: [bytestay.pt/open-source](https://bytestay.pt/open-source.html)
 
 ## Open source
 
